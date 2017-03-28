@@ -1,0 +1,12 @@
+﻿Build started 2016-05-22 10:34:34.
+     1>Project "C:\Users\Artur\Desktop\GKOM\GKOM\GKOM.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Artur\Desktop\GKOM\Release\GKOM.exe" /NOLOGO opengl32.lib glfw3.lib glew32s.lib soil.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Artur\Desktop\GKOM\Release\GKOM.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Artur\Desktop\GKOM\Release\GKOM.lib" /MACHINE:X86 /SAFESEH Release\main.obj
+     1>LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+     1>main.obj : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+     1>C:\Users\Artur\Desktop\GKOM\Release\GKOM.exe : fatal error LNK1120: 1 unresolved externals
+     1>Done Building Project "C:\Users\Artur\Desktop\GKOM\GKOM\GKOM.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.15

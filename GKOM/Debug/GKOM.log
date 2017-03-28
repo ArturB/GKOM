@@ -1,0 +1,7 @@
+﻿main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  soil.lib(SOIL.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  Generating code
+  Finished generating code
+  GKOM.vcxproj -> C:\Users\Artur\Downloads\GKOM\Debug\GKOM.exe
+  GKOM.vcxproj -> C:\Users\Artur\Downloads\GKOM\Debug\GKOM.pdb (Full PDB)
